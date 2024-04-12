@@ -1,8 +1,6 @@
 
 import logo from "./assets/logo.png"
 import styles from "./styles.module.scss"
-import {MapaGoogle} from "./components/mapa/maps.jsx";
-import ReactPlayer from "react-player";
 import meuVideo from './assets/video.mp4';
 import insta from "./assets/insta.png"
 export const Home = () =>{
