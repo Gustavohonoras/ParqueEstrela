@@ -357,6 +357,16 @@ background-color: #570F7F;
     padding-bottom: 70px;
   }
 
+  .insta{
+    flex-direction: column-reverse;
+  ;
+
+    gap: 50px;
+  }
+
+  .imgi{
+    height: 450px;
+  }
   .valor{
     justify-content: center;
   }
@@ -438,6 +448,16 @@ background-color: #570F7F;
     padding-bottom: 70px;
   }
 
+  .insta{
+    flex-direction: column-reverse;
+  ;
+
+    gap: 50px;
+  }
+
+  .imgi{
+    height: 450px;
+  }
   .valor{
     justify-content: center;
   }
@@ -519,6 +539,107 @@ background-color: #570F7F;
     padding-bottom: 70px;
   }
 
+  .insta{
+    flex-direction: column-reverse;
+  ;
+
+    gap: 50px;
+  }
+
+  .imgi{
+    height: 450px;
+  }
+  .valor{
+    justify-content: center;
+  }
+  .ingtitle{
+    font-size: 30px;
+  }
+  .textI{
+    font-size: 60px;
+    width: auto;
+    padding-top: 30px;
+  }
+  .ingresso{
+    width: 200px;
+    justify-content: center;
+  }
+  .ingval2{
+    font-size: 200px;
+    margin-left: -10px;
+  }
+  .ingvalor{
+    font-size: 30px;
+  }
+  .spaning{
+    margin-left: -30px;
+    font-size: 30px;
+  }
+
+  .footer{
+    height: 128px;
+    .logo{
+      height: 40px;
+    }
+    .textf{
+      font-size: 9px;
+    }
+
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+  .bannerContent{
+
+    flex-direction: column-reverse;
+  }
+  .header{
+    .img{
+      height: 100px;
+    }
+  }
+
+  .title{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 32px;
+    width: 98%;
+  }
+  .h1banner{
+    padding-top: 20px;
+    font-size: 50px;
+  }
+  .h2banner{
+    font-size: 90px;
+    padding-bottom: 60px;
+  }
+
+  .map{
+    width: 90%;
+  }
+
+  .video{
+    height: 250px;
+    width: 80%;
+  }
+
+  .ingressos{
+    padding: 5px;
+    flex-direction: column;
+    gap: 50px ;
+    align-items: center;
+    padding-bottom: 70px;
+  }
+
+  .insta{
+    flex-direction: column-reverse;
+  ;
+
+    gap: 50px;
+  }
+
+  .imgi{
+    height: 450px;
+  }
   .valor{
     justify-content: center;
   }
